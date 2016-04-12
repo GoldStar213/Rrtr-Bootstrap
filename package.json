@@ -1,7 +1,7 @@
 {
-  "name": "react-router-bootstrap",
+  "name": "rrtr-bootstrap",
   "version": "0.21.0",
-  "description": "Integration between React Router and React-Bootstrap",
+  "description": "Integration between rrtr and React-Bootstrap",
   "main": "./lib/index.js",
   "scripts": {
     "prepublish": "npm run build",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-bootstrap/react-router-bootstrap.git"
+    "url": "git@github.com:react-bootstrap/rrtr-bootstrap.git"
   },
   "keywords": [
     "react",
@@ -28,9 +28,9 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/react-bootstrap/react-router-bootstrap/issues"
+    "url": "https://github.com/react-bootstrap/rrtr-bootstrap/issues"
   },
-  "homepage": "https://github.com/react-bootstrap/react-router-bootstrap",
+  "homepage": "https://github.com/react-bootstrap/rrtr-bootstrap",
   "peerDependencies": {
     "react": ">=0.14.0",
     "rrtr": ">=2.1.2"
@@ -84,11 +84,6 @@
     "yargs": "^4.4.0"
   },
   "files": [
-    "README",
-    "CHANGELOG.md",
     "lib"
-  ],
-  "release-script": {
-    "bowerRepo": "git@github.com:react-bootstrap/react-router-bootstrap-bower.git"
-  }
+  ]
 }

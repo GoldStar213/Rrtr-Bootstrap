@@ -1,3 +1,13 @@
+## [v0.21.1]
+> 2016-04-12
+
+- **Minor:** Republish as `rrtr-bootstrap` ([#1])
+
+[v0.21.1]: https://github.com/react-bootstrap/rrtr-bootstrap/compare/v0.21.0...v0.21.1
+[#1]: https://github.com/react-bootstrap/react-router-bootstrap/pull/1
+
+# Below changes predate rename to rrtr-bootstrap.
+
 ## [v0.21.0]
 > 2016-04-11
 

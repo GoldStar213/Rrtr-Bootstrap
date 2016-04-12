@@ -13,7 +13,7 @@ import 'bootstrap/less/bootstrap.less';
 
 const App = ({ children }) => (
   <Grid>
-    <h1>React-Router-Bootstrap Module Visual Test</h1>
+    <h1>rrtr-Bootstrap Module Visual Test</h1>
     {children}
   </Grid>
 );
