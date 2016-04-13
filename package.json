@@ -1,6 +1,6 @@
 {
   "name": "rrtr-bootstrap",
-  "version": "0.21.1",
+  "version": "0.21.2",
   "description": "Integration between rrtr and React-Bootstrap",
   "main": "./lib/index.js",
   "scripts": {
