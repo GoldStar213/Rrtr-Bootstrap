@@ -1,3 +1,11 @@
+## [v0.21.2]
+> 2016-04-13
+
+- **Minor:** Republish to npm to show deprecation note
+
+[v0.21.2]: https://github.com/react-bootstrap/rrtr-bootstrap/compare/v0.21.1...v0.21.2
+
+
 ## [v0.21.1]
 > 2016-04-12
 
